@@ -1,0 +1,49 @@
+medicine_name,active_ingredient,dosage_form,strength,category
+Paracetamol 500,Paracetamol,Tablet,500 mg,Pain_relief
+Paracetamol 650,Paracetamol,Tablet,650 mg,Pain_relief
+Acetaminophen tablet,Acetaminophen,Tablet,500 mg,Pain_relief
+Ibuprofen tablet,Ibuprofen,Tablet,200 mg,Pain_relief
+Ibuprofen suspension,Ibuprofen,Suspension,100 mg/5 ml,Pain_relief
+Naproxen tablet,Naproxen,Tablet,250 mg,Pain_relief
+Diclofenac tablet,Diclofenac,Tablet,50 mg,Pain_relief
+Aspirin tablet,Acetylsalicylic acid,Tablet,75 mg,Pain_relief
+Cetirizine tablet,Cetirizine,Tablet,10 mg,Allergy_relief
+Cetirizine syrup,Cetirizine,Syrup,5 mg/5 ml,Allergy_relief
+Loratadine tablet,Loratadine,Tablet,10 mg,Allergy_relief
+Fexofenadine tablet,Fexofenadine,Tablet,120 mg,Allergy_relief
+Levocetirizine tablet,Levocetirizine,Tablet,5 mg,Allergy_relief
+Chlorpheniramine tablet,Chlorpheniramine,Tablet,4 mg,Allergy_relief
+Desloratadine tablet,Desloratadine,Tablet,5 mg,Allergy_relief
+Fexofenadine suspension,Fexofenadine,Suspension,30 mg/5 ml,Allergy_relief
+Omeprazole capsule,Omeprazole,Capsule,20 mg,Acid_reducing
+Pantoprazole tablet,Pantoprazole,Tablet,40 mg,Acid_reducing
+Esomeprazole capsule,Esomeprazole,Capsule,20 mg,Acid_reducing
+Lansoprazole capsule,Lansoprazole,Capsule,30 mg,Acid_reducing
+Famotidine tablet,Famotidine,Tablet,20 mg,Acid_reducing
+Ranitidine reference record,Ranitidine,Tablet,150 mg,Acid_reducing
+Calcium carbonate chewable,Calcium carbonate,Chewable tablet,500 mg,Acid_reducing
+Magnesium hydroxide suspension,Magnesium hydroxide,Suspension,400 mg/5 ml,Acid_reducing
+Amoxicillin capsule,Amoxicillin,Capsule,500 mg,Antibiotic
+Amoxicillin suspension,Amoxicillin,Suspension,250 mg/5 ml,Antibiotic
+Azithromycin tablet,Azithromycin,Tablet,500 mg,Antibiotic
+Cefixime tablet,Cefixime,Tablet,200 mg,Antibiotic
+Doxycycline capsule,Doxycycline,Capsule,100 mg,Antibiotic
+Cephalexin capsule,Cephalexin,Capsule,500 mg,Antibiotic
+Metronidazole tablet,Metronidazole,Tablet,400 mg,Antibiotic
+Clarithromycin tablet,Clarithromycin,Tablet,250 mg,Antibiotic
+Vitamin C tablet,Ascorbic acid,Tablet,500 mg,Vitamin_supplement
+Vitamin D3 capsule,Cholecalciferol,Capsule,1000 IU,Vitamin_supplement
+Vitamin B12 tablet,Cyanocobalamin,Tablet,500 mcg,Vitamin_supplement
+Folic acid tablet,Folic acid,Tablet,5 mg,Vitamin_supplement
+Calcium supplement,Calcium,Tablet,500 mg,Vitamin_supplement
+Multivitamin tablet,Multivitamins,Tablet,Standard,Vitamin_supplement
+Iron supplement,Ferrous sulfate,Tablet,200 mg,Vitamin_supplement
+Zinc supplement,Zinc sulfate,Tablet,20 mg,Vitamin_supplement
+Metformin tablet,Metformin,Tablet,500 mg,Diabetes_related
+Metformin extended release,Metformin,Extended-release tablet,500 mg,Diabetes_related
+Glimepiride tablet,Glimepiride,Tablet,1 mg,Diabetes_related
+Gliclazide tablet,Gliclazide,Tablet,40 mg,Diabetes_related
+Sitagliptin tablet,Sitagliptin,Tablet,100 mg,Diabetes_related
+Pioglitazone tablet,Pioglitazone,Tablet,15 mg,Diabetes_related
+Insulin injection reference,Insulin,Injection,As labelled,Diabetes_related
+Empagliflozin tablet,Empagliflozin,Tablet,10 mg,Diabetes_related
